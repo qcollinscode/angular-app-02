@@ -1,0 +1,35 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add babel-core babel-preset-es2015 body-parser browser-sync cookie-parser del express mongodb mongoose morgan request
+
+PATH: 
+  C:\Users\MyPC\Downloads\ConEmuPack.170305\ConEmu\Scripts;C:\Users\MyPC\Downloads\ConEmuPack.170305;C:\Users\MyPC\Downloads\ConEmuPack.170305\ConEmu;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Brackets\command;C:\wamp64\bin\php\php7.0.10;C:\Program Files\dotnet\;C:\Program Files (x86)\Yarn\bin;C:\Users\MyPC\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\Ruby23-x64\bin;C:\Users\MyPC\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\MyPC\AppData\Local\Programs\Python\Python36\;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\MyPC\AppData\Roaming\Composer\vendor\bin;C:\Program Files (x86)\Java\jdk1.8.0_112\bin;C:\Program Files\MongoDB\Server\3.4\bin;C:\Program Files\Heroku\bin;C:\Users\MyPC\AppData\Local\atom\bin;C:\wamp64\bin\php\php7.0.10;C:\Users\MyPC\AppData\Local\Yarn\.bin;C:\Users\MyPC\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\MyPC\AppData\Local\.meteor\;C:\Users\MyPC\AppData\Roaming\npm
+
+Yarn version: 
+  0.23.2
+
+Node version: 
+  6.10.3
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "portfolio",
+    "version": "1.0.0",
+    "main": "server.js",
+    "author": "qcollins qcollins@qcollinscode.com",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOENT registry.yarnpkg.com:443
+      at Object.exports._errnoException (util.js:1018:11)
+      at errnoException (dns.js:33:15)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)

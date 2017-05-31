@@ -1,0 +1,17 @@
+<div class="projects-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1 class="hd">Projects</h1>
+            </div>
+        </div>
+        <div class="row projects-container" ng-repeat="x in projects">
+            <div class="col-sm-6">
+                <img ng-src="{{x.img}}" class="img-fluid">
+            </div>
+            <div class="col-sm-6">
+                <h1>{{x.title}}</h1>
+            </div>
+        </div>
+    </div>
+</div>

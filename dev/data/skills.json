@@ -1,0 +1,66 @@
+[
+        {
+            "skill": "HTML5",
+            "percent": "60%"
+        },
+        {
+            "skill": "CSS3",
+            "percent": "60%"
+        },
+        {
+            "skill": "JavaScript",
+            "percent": "60%"
+        },
+        {
+            "skill": "PHP",
+            "percent": "50%"
+        },
+        {
+            "skill": "MySQL",
+            "percent": "35%"
+        },
+        {
+            "skill": "Node.js",
+            "percent": "35%"
+        },
+        {
+            "skill": "Git",
+            "percent": "60%"
+        },
+        {
+            "skill": "Gulp",
+            "percent": "60%"
+        },
+        {
+            "skill": "Heroku",
+            "percent": "40%"
+        },
+        {
+            "skill": "Webpack",
+            "percent": "40%"
+        },
+        {
+            "skill": "Express",
+            "percent": "35%"
+        },
+        {
+            "skill": "React.js",
+            "percent": "45%"
+        },
+        {
+            "skill": "Angular.js",
+            "percent": "45%"
+        },
+        {
+            "skill": "Bootstrap",
+            "percent": "60%"
+        },
+        {
+            "skill": "JQuery",
+            "percent": "60%"
+        },
+        {
+            "skill": "SASS",
+            "percent": "50%"
+        }
+    ]
